@@ -1,4 +1,4 @@
-### Hi there 👋
+# Yeonju Lee 👋
 
 <!--
 **430lyj/430lyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Web backend Engineer
+- Majored in Business Administration and AI Convergence (Software & AI) 
+- Hankuk University of Foreign Studies (HUFS)
